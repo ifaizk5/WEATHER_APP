@@ -20,10 +20,6 @@ This is a simple Weather App that allows users to select a city and get the curr
 
 1.  Clone the repository:
 
-    ```
-    git clone &lt;repository-url&gt;
-    ```
-
 2.  Open `index.html` in your browser.
 
 ## Usage
@@ -103,15 +99,4 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
-```
-
-<div>⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/61116656/af8c9931-8857-4faa-88a4-f9006c27f589/style.css
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/61116656/059940ea-5b0b-48ad-a7e8-6c4763d39611/script.js
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/61116656/19558f47-3991-4581-8cbf-d505c6ca2875/index.html
-
-[^4]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/61116656/ffd8cf57-22d1-4e4b-9fd4-9c775396ad2a/file.prettierrc
 
